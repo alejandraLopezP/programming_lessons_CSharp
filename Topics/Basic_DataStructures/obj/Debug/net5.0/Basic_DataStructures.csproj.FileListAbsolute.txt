@@ -1,0 +1,12 @@
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\bin\Debug\net5.0\Basic_DataStructures.deps.json
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\bin\Debug\net5.0\Basic_DataStructures.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\bin\Debug\net5.0\ref\Basic_DataStructures.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\bin\Debug\net5.0\Basic_DataStructures.pdb
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.csproj.AssemblyReference.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.AssemblyInfoInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.AssemblyInfo.cs
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\ref\Basic_DataStructures.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Basic_DataStructures\obj\Debug\net5.0\Basic_DataStructures.pdb

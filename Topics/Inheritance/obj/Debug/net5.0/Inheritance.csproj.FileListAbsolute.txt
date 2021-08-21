@@ -1,0 +1,12 @@
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\bin\Debug\net5.0\Inheritance.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Inheritance\obj\Debug\net5.0\Inheritance.pdb

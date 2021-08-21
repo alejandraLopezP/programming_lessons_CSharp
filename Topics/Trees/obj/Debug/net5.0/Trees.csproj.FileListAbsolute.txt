@@ -1,0 +1,12 @@
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\bin\Debug\net5.0\Trees.deps.json
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\bin\Debug\net5.0\Trees.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\bin\Debug\net5.0\ref\Trees.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\bin\Debug\net5.0\Trees.pdb
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.csproj.AssemblyReference.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.AssemblyInfoInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.AssemblyInfo.cs
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\ref\Trees.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Trees\obj\Debug\net5.0\Trees.pdb

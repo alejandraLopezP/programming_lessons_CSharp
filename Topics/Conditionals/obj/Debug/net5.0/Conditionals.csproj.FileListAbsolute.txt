@@ -1,0 +1,12 @@
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\bin\Debug\net5.0\Conditionals.deps.json
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\bin\Debug\net5.0\Conditionals.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\bin\Debug\net5.0\ref\Conditionals.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\bin\Debug\net5.0\Conditionals.pdb
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.csproj.AssemblyReference.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.AssemblyInfoInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.AssemblyInfo.cs
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\ref\Conditionals.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Conditionals\obj\Debug\net5.0\Conditionals.pdb

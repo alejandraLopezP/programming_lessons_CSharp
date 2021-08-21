@@ -1,0 +1,12 @@
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\bin\Debug\net5.0\Loops.deps.json
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\bin\Debug\net5.0\Loops.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\bin\Debug\net5.0\ref\Loops.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\bin\Debug\net5.0\Loops.pdb
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.csproj.AssemblyReference.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.AssemblyInfoInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.AssemblyInfo.cs
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\ref\Loops.dll
+C:\Users\allop\Documents\PROGRAMACION_TODO\CLASES_DIMAS\programming_lessons_CSharp\Topics\Loops\obj\Debug\net5.0\Loops.pdb
