@@ -2,6 +2,7 @@
 using System.Collections;
 using Conditionals;
 using Loops;
+using Inheritance;
 
 
 namespace Console.UI
@@ -11,8 +12,17 @@ namespace Console.UI
         static void Main(string[] args)
         {
 
-            int answer = Loops.For_Loop.Factorial(5);
-            System.Console.WriteLine(answer);
+            var p1 = new Perro(11, "Puchi");
+            var p2 = new Perro(10, "Tyra");
+            var p3 = new Perro();
+            var p4 = new Perro() { Name = "Coco"};
+            System.Console.WriteLine(p1.Bark());
+            System.Console.WriteLine(p2.Bark());
+            p3.Name = "Sushi";
+            
+
+            System.Console.WriteLine(p3.Bark());
+            System.Console.WriteLine(p4.Bark());
             
         }
     }
